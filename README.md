@@ -1,4 +1,4 @@
-============================================================ 🚑
+============================================== 🚑
  FAST EMERGENCY - SISTEMA DE GESTIÓN DE VOLUNTARIADO
 Este proyecto contiene todo el código fuente, dependencias y configuraciones listas para ejecutar.
 
